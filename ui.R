@@ -13,7 +13,7 @@ library(shiny)
 fluidPage(
 
     # Application title
-    titlePanel("Demo Shiny App"),
+    titlePanel("Demo Shiny-App"),
 
     # Sidebar with a slider input for number of bins
     sidebarLayout(
